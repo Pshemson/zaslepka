@@ -1,1 +1,5 @@
-zaslepka
+.idea
+*.*~
+node_modules
+npm-exec.bat
+package-lock.json
